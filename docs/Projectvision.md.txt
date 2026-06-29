@@ -1,0 +1,73 @@
+What problem does this chatbot solve?
+
+It provide you a personalize prompt for your specific task according to your need either you are student, professional and etc.
+                                                       
+
+                                                                 User
+
+                                                                  ↓
+
+                                                          Types a simple idea
+
+                                                                  ↓
+
+                                                     Prompt Engineer Bot improves it
+
+                                                                  ↓
+
+                                                     User copies the improved prompt
+
+                                                                  ↓
+
+                                                      Gets a much better AI response
+
+
+
+
+Who will use it?
+
+Students
+Need help writing prompts for homework, research, or learning.
+
+Content creators
+Need prompts for blog posts, YouTube videos, or social media.
+
+Developers
+Need prompts for generating code, debugging, or documentation.
+
+AI beginners
+Don't know how to ask AI effectively.
+
+Businesses
+Want better prompts for marketing, customer support, or automation.
+ 
+
+What is Version 1?
+
+A text box for the user's idea.
+A button to generate an improved prompt.
+Display the optimized prompt.
+Allow copying the result.
+Support a few prompt styles (e.g., coding, writing, learning).
+
+
+What is Version 2?
+
+User accounts.
+Save prompt history.
+Favorite prompts.
+Prompt templates.
+Voice input.
+Export prompts.
+Multiple AI models.
+Dark mode.
+Mobile-friendly interface.
+
+
+What will make it different from other AI chatbots?
+
+It specializes in creating high-quality prompts instead of answering every question.
+It offers structured prompt templates for coding, learning, writing, and business tasks.
+It explains why each prompt improvement was made, helping users learn prompt engineering.
+It is beginner-friendly with a simple interface and guided suggestions.
+It focuses on speed and ease of use rather than being a general-purpose chatbot.
