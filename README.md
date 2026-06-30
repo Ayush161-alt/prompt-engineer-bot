@@ -1,16 +1,72 @@
-# React + Vite
+## Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Prompt Engineer Bot is an AI-powered web application that helps users generate high-quality prompts for AI models such as ChatGPT, Claude, Gemini, Midjourney, and more.
 
-Currently, two official plugins are available:
+The goal is to simplify prompt engineering by providing optimized prompts based on user input.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* AI prompt generation
+* Prompt optimization
+* Support for multiple AI models
+* Clean and responsive interface
+* Future prompt history
+* Export prompts
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Tech Stack
+
+### Frontend
+
+* React
+* Vite
+* HTML
+* CSS
+* JavaScript
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Version Control
+
+* Git
+* GitHub
+
+
+## Folder Structure
+
+prompt-engineer-bot/
+│
+├── frontend/
+├── backend/
+├── docs/
+├── assets/
+├── README.md
+├── PROJECT_LOG.md
+└── IDEAS.md
+
+
+## Installation
+git clone <repository-url>
+cd prompt-engineer-bot
+npm install
+
+
+
+## Future Goals
+
+* Authentication
+* Prompt history
+* AI model selection
+* Prompt templates
+* Export to PDF
+
+
+## Author
+
+Ayush Kirar
